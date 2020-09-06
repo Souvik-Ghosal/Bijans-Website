@@ -1,0 +1,118 @@
+
+        body {
+            margin: 0;
+            padding: 0;
+
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            margin: 0%;
+        }
+
+        .navbar {
+            background-color: rgb(21, 21, 124);
+            color: white;
+            position: sticky;
+
+        }
+
+        li {
+            float: left;
+            list-style: none;
+            padding: 15px 20px;
+
+        }
+
+        ul {
+            overflow: auto;
+            margin: 0;
+        }
+
+        .me {
+            height: 480px;
+            background-color: teal;
+            display: flex;
+            margin: 0px;
+            padding: 80px;
+
+        }
+
+        .img {
+            display: block;
+            height: 400px;
+            width: 400px;
+            border-radius: 200px;
+            margin: 40px 0px;
+
+        }
+
+        .about {
+            padding: 80px 110px;
+            text-align: left;
+            font-size: 20px;
+        }
+
+        h2 {
+            margin: 10px;
+        }
+
+        .det {
+            /* border: 4px solid green; */
+            text-align: center;
+            padding: 20px 90px;
+        }
+
+
+        .dettils {
+            margin: auto;
+        }
+
+        .form {
+            padding: 80px 20px;
+
+        }
+
+        label {
+            padding: 10px 00px;
+        }
+
+        #d {
+            font-size: 40px;
+        }
+
+        footer {
+            background-color: brown;
+            padding: 15px;
+
+
+        }
+
+        .a {
+            text-decoration: none;
+            color: rgb(176, 158, 236);
+            font-size: 20px;
+        }
+
+        .b {
+            padding: 30px 100px;
+        }
+
+        .con {
+            text-align: center;
+
+
+
+        }
+
+        .con a {
+            color: blue;
+            text-decoration: none;
+            font-weight: bolder;
+            padding: 5px;
+            font-size: 30px;
+
+        }
+
+
